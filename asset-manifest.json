@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cipherschools-blog/static/css/main.fd773a7f.chunk.css",
+    "main.js": "/cipherschools-blog/static/js/main.53f07b04.chunk.js",
+    "main.js.map": "/cipherschools-blog/static/js/main.53f07b04.chunk.js.map",
+    "runtime-main.js": "/cipherschools-blog/static/js/runtime-main.79cf95bd.js",
+    "runtime-main.js.map": "/cipherschools-blog/static/js/runtime-main.79cf95bd.js.map",
+    "static/css/2.997d33c1.chunk.css": "/cipherschools-blog/static/css/2.997d33c1.chunk.css",
+    "static/js/2.c38aaf99.chunk.js": "/cipherschools-blog/static/js/2.c38aaf99.chunk.js",
+    "static/js/2.c38aaf99.chunk.js.map": "/cipherschools-blog/static/js/2.c38aaf99.chunk.js.map",
+    "index.html": "/cipherschools-blog/index.html",
+    "precache-manifest.1887bf6fc99578abfca87cd9f73b7833.js": "/cipherschools-blog/precache-manifest.1887bf6fc99578abfca87cd9f73b7833.js",
+    "service-worker.js": "/cipherschools-blog/service-worker.js",
+    "static/css/2.997d33c1.chunk.css.map": "/cipherschools-blog/static/css/2.997d33c1.chunk.css.map",
+    "static/css/main.fd773a7f.chunk.css.map": "/cipherschools-blog/static/css/main.fd773a7f.chunk.css.map",
+    "static/js/2.c38aaf99.chunk.js.LICENSE.txt": "/cipherschools-blog/static/js/2.c38aaf99.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/cipherschools-blog/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79cf95bd.js",
+    "static/css/2.997d33c1.chunk.css",
+    "static/js/2.c38aaf99.chunk.js",
+    "static/css/main.fd773a7f.chunk.css",
+    "static/js/main.53f07b04.chunk.js"
+  ]
+}

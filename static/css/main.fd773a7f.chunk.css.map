@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACC,YAED,CACA,MACC,SAED,CAEA,QACC,SAED","file":"main.fd773a7f.chunk.css","sourcesContent":[".details{\r\n\tdisplay: flex;\r\n\r\n}\r\n.main{\r\n\twidth:86%;\r\n\t\r\n}\r\n\r\n.recent{\r\n\twidth: 14%;\r\n\t\r\n}"]}
