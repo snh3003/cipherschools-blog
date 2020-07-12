@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cipherschools-blog/precache-manifest.1887bf6fc99578abfca87cd9f73b7833.js"
+  "/cipherschools-blog/precache-manifest.3ccd1b0d059583ec992e33602c44c1f6.js"
 );
 
 self.addEventListener('message', (event) => {

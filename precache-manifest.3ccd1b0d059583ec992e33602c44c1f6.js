@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1986c07fabf4b238a4bda107834d57fb",
+    "revision": "4431e334043138df5c88bc5f23b931c4",
     "url": "/cipherschools-blog/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cipherschools-blog/static/css/2.997d33c1.chunk.css"
   },
   {
-    "revision": "d9028ec290dbee87f6ea",
+    "revision": "feb60a7eb2092ce976e0",
     "url": "/cipherschools-blog/static/css/main.fd773a7f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cipherschools-blog/static/js/2.c38aaf99.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9028ec290dbee87f6ea",
-    "url": "/cipherschools-blog/static/js/main.53f07b04.chunk.js"
+    "revision": "feb60a7eb2092ce976e0",
+    "url": "/cipherschools-blog/static/js/main.362637a8.chunk.js"
   },
   {
     "revision": "e40c1a707965ea554ba2",
